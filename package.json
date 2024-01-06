@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/EsilSemitone/book-library/issues"
   },
-  "homepage": "https://github.com/EsilSemitone/book-library#readme"
+  "homepage": "https://github.com/EsilSemitone/book-library#readme",
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "eslint": "^8.56.0",
+    "rollup": "^4.9.4",
+    "rollup-plugin-import-css": "^3.3.5"
+  }
 }
