@@ -1,0 +1,22 @@
+{
+  "name": "book-library",
+  "version": "1.0.0",
+  "description": "some app with book library on open api openlibrary.org",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EsilSemitone/book-library.git"
+  },
+  "keywords": [
+    "book-app"
+  ],
+  "author": "esil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EsilSemitone/book-library/issues"
+  },
+  "homepage": "https://github.com/EsilSemitone/book-library#readme"
+}
