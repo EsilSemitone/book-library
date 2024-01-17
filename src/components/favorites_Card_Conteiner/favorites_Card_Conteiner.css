@@ -1,0 +1,13 @@
+.cards__container {
+    padding: 10px;
+}
+
+.card__container_wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    row-gap: 40px;
+}
+
+.cards_container__title {
+    margin-bottom: 50px;
+}
